@@ -1,0 +1,2 @@
+# EEG-seizure-detection-and-prediction-algorithm-development
+The aim of this project is to design advanced algorithms for seizure detection and prediction based on EEG recordings from Temple University EEG Corpus dataset and CHB-MIT dataset. Deep learning framework and advanced feature extraction and classification algorithms will be developed. The performance will be evaluated on this public benchmark data and compared to state-of-the-art methods.
